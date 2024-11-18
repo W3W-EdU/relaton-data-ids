@@ -5,10 +5,10 @@ title:
 - content: Building IPv6 Applications which Access IPv4 Servers
   language:
   - en
-  script:
+  script:splunk.com
   - Latn
   format: text/plain
-docid:
+docid:drafts@mastodon.social
 - id: draft-wing-v6ops-v6app-v4server
   type: Internet-Draft
   primary: true
